@@ -1,0 +1,7 @@
+1.Create interface Chassis and Cabinet which have two function getPrice():int and getPower():int
+2.Implement the interface with computer components with their power consumption and price
+3.Create another interface named Sort having sort method
+4.Implement Sort interafce with different algorithms which gives sorted ArrayList
+5.Create a PC class for creating Chassis and Cabinet object
+6.Create a Strategy class which uses PC class.
+7.Finally according to need at run time Strategy class will create object of required algorithm.
