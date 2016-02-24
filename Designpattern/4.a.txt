@@ -1,0 +1,1 @@
+Strategy Design Pattern can be used in this problem.
